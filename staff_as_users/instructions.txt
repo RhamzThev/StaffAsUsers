@@ -1,0 +1,11 @@
+To get access to the "Staff As Users" Application:
+1. Go to "%ATC_IS_StudentStaff%\1_Rhamsez\staff_as_users".
+2. Use "staff_as_users_format.xslx" to fill in the necessary information. The spreadsheet MUST be formatted like so, so the program can run properly.
+NOTE: You can only copy the emails onto the spreadsheet. The program should run just fine.
+3. Go into "\dist" and run the "staff_as_users.exe" file.
+4. Click on "Open File" and choose the spreadsheet you formatted.
+5. When program finishes, Click the "Copy To Clipboard" button to retrieve all Staff members who have student accounts.
+6. Go into the Admin Page of CG.
+7. Go to Users, and click on "Paste List".
+8. Paste the list of emails.
+9. To know which Staff are students, change "-Account Type-" to Student.
